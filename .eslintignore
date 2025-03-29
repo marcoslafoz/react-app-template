@@ -1,6 +1,3 @@
 node_modules
 vite.config.ts
-tailwind.config.js
-cypress.config.ts
-cypress
 postcss.config.js

@@ -1,9 +1,6 @@
-@import url('./variables.scss');
-@import url('./fonts.scss');
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@import url('./variables.css') layer(base);
+@import url('./fonts.css') layer(base);
 
 /*========================== Default ==========================*/
 
