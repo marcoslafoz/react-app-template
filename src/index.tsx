@@ -1,9 +1,5 @@
 import ReactDOM from 'react-dom/client'
-import '../src/assets/scss/main.scss'
-import { App } from './modules/App.tsx'
+import './styles/main.scss'
+import { App } from './components/App.tsx'
 
-ReactDOM.createRoot(document.getElementById('root')!).render(
-  // <React.StrictMode>
-  <App />
-  // </React.StrictMode>
-)
+ReactDOM.createRoot(document.getElementById('root')!).render(<App />)

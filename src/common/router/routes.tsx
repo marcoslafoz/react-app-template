@@ -1,5 +1,5 @@
 import { createBrowserRouter } from 'react-router-dom'
-import { HelloWorld } from '../../modules/components/hello-world'
+import { HelloWorld } from '../../components/hello-world/hello-world'
 
 export const router = createBrowserRouter([
   {

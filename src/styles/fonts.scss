@@ -6,19 +6,19 @@
   font-family: 'StudentSpace-Regular';
   font-style: normal;
   font-weight: normal;
-  src: local('StudentSpace'), url(../../assets/fonts/StudentSpace.ttf) format('truetype');
+  src: local('StudentSpace'), url(../assets/fonts/StudentSpace.ttf) format('truetype');
 }
 
 @font-face {
   font-family: 'StudentSpace-Medium';
   font-style: normal;
   font-weight: normal;
-  src: local('StudentSpace-Medium'), url(../../assets/fonts/StudentSpace-Medium.ttf) format('truetype');
+  src: local('StudentSpace-Medium'), url(../assets/fonts/StudentSpace-Medium.ttf) format('truetype');
 }
 
 @font-face {
   font-family: 'StudentSpace-Bold';
   font-style: normal;
   font-weight: normal;
-  src: local('StudentSpace-Bold'), url(../../assets/fonts/StudentSpace-Bold.ttf) format('truetype');
+  src: local('StudentSpace-Bold'), url(../assets/fonts/StudentSpace-Bold.ttf) format('truetype');
 }
