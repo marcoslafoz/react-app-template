@@ -1,10 +1,11 @@
 import { createBrowserRouter } from 'react-router-dom'
-import { HelloWorld } from '../../components/hello-world/hello-world'
+import { Index } from '@/pages/index'
+import { Error404 } from '@/pages/error-404'
 
 export const router = createBrowserRouter([
   {
     path: '/',
-    element: <HelloWorld />,
-    errorElement: <></>,
+    element: <Index />,
+    errorElement: <Error404 />,
   },
 ])
