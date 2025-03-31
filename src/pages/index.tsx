@@ -1,6 +1,6 @@
 import React from 'react'
 import { Layout } from '@/layouts/layout'
-import { HelloWorld } from '@/components/hello-world/hello-world'
+import { HelloWorld } from '@/components/hello-world'
 
 export const Index: React.FC = () => {
   return (
