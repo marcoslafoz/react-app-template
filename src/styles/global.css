@@ -1,6 +1,6 @@
-@import 'tailwindcss';
 @import url('./variables.css') layer(base);
 @import url('./fonts.css') layer(base);
+@import 'tailwindcss';
 
 /*========================== Default ==========================*/
 
